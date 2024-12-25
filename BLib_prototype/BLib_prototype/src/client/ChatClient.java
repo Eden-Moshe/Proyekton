@@ -28,6 +28,7 @@ import java.util.Iterator;
 //initial commit//
 
 //COMMIT TEST 1//
+//COMMIT TEST INTELLIJ//
 
 
 public class ChatClient extends AbstractClient
