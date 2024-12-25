@@ -24,7 +24,6 @@ import java.util.Iterator;
  * @version July 2000
  */
 
-
 public class ChatClient extends AbstractClient
 {
   //Instance variables **********************************************
