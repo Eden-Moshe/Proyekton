@@ -23,7 +23,7 @@ import java.util.Iterator;
  * @author Fran&ccedil;ois B&eacute;langer
  * @version July 2000
  */
-//ADDED MESSAGE TEST COMMIT//
+
 
 public class ChatClient extends AbstractClient
 {
