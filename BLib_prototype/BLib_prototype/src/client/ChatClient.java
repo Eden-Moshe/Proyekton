@@ -1,7 +1,7 @@
 // This file contains material supporting section 3.7 of the textbook:
 // "Object Oriented Software Engineering" and is issued under the open-source
 // license found at www.lloseng.com 
-
+//A
 package client;
 
 import ocsf.client.*;
@@ -23,7 +23,7 @@ import java.util.Iterator;
  * @author Fran&ccedil;ois B&eacute;langer
  * @version July 2000
  */
-
+//ADDED MESSAGE TEST COMMIT//
 
 public class ChatClient extends AbstractClient
 {
